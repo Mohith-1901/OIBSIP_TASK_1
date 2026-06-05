@@ -53,6 +53,3 @@ Through this project, I learned:
 * Add a contact form
 * Improve mobile responsiveness
 * Integrate JavaScript for interactivity
-
-
-Created by [Your Name]
